@@ -8,7 +8,7 @@ First, run the development server:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MonalikaPatnaik/TextArtify
+   git clone https://github.com/khushiii01/TextArtify
    ```
 2. Start the development server:
    ```bash
